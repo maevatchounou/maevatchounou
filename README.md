@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Bonjour, moi c'est 👋 | Future Ingénieure en Informatique & Systèmes Embarqués
+  # Bonjour, moi c'est TCHOUNOU MAEVA | Future Ingénieure en Informatique & Systèmes Embarqués
 
   <p align="center">
     <em>Allier la robustesse du code, la puissance des données et l'intelligence du matériel pour concevoir des solutions technologiques complètes.</em>
