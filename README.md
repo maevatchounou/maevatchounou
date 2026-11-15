@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Bonjour, moi c'est TCHOUNOU MAEVA | Future Ingénieure en Informatique & Systèmes Embarqués
+  # Bonjour, je suis TCHOUNOU MAEVA | Future Ingénieure en Informatique & Systèmes Embarqués
 
   <p align="center">
     <em>Allier la robustesse du code, la puissance des données et l'intelligence du matériel pour concevoir des solutions technologiques complètes.</em>
@@ -55,10 +55,10 @@ Mon objectif ? Ne pas me limiter à une seule couche de l'application, mais comp
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-**Data Science & Électronique / IoT**
+**Électronique / IoT**
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <!--<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> -->
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
