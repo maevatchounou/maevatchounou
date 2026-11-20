@@ -1,6 +1,6 @@
 
 <div align="center">
-  # Bonjour, je suis TCHOUNOU MAEVA | Future Ingénieure en Génie Logiciel & Data Science
+  ### Bonjour, je suis TCHOUNOU MAEVA | Future Ingénieure en Génie Logiciel & Data Science
  
   <p align="center">
     <em>Concevoir des logiciels robustes, tirer de la valeur des données, et relier le tout au monde physique grâce à l'IoT.</em>
